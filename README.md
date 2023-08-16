@@ -1,6 +1,6 @@
 # Smile-detection
-This project detects your fase as a smile or non-smile face.
-Using OpenCV and lenet as a neural network, I trained a model to detect face emotion.
+This project detects your face as a smile or a non-smile face.
+Using OpenCV and Lenet as a neural network (CNN), I trained a model to detect facial emotion.
 You can find all the requirements in the related file in this repo.
 
 
